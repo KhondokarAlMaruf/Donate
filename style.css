@@ -1,0 +1,43 @@
+#top-banner {
+    background-image: url(images/donation5.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    background-position: center;
+    height: 600px;
+    margin-bottom: 100px;
+
+
+}
+
+#top-title {
+    color: whitesmoke;
+    text-align: center;
+
+    padding-top: 65px;
+}
+
+#top-headding {
+    font-size: 70px;
+    font-weight: 700;
+    margin-bottom: 5px;
+}
+
+#top-paragraph {
+    font-size: 25px;
+    margin-bottom: 65px;
+
+}
+
+#top-button {
+    text-decoration: none;
+    background-image: linear-gradient(orange, tomato);
+    padding: 20px 20px;
+    border-radius: 10px;
+    color: white;
+    font-size: 20px;
+    font-weight: 700;
+
+
+
+}
