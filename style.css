@@ -37,7 +37,55 @@
     color: white;
     font-size: 20px;
     font-weight: 700;
+}
 
+#second-step {
+    height: 600px;
+    text-align: center;
+}
 
+#second-heading {
+    font-size: 60px;
+}
 
+#second-paragraph {
+    font-size: 25px;
+    margin-bottom: 80px;
+}
+
+#donate-taka {
+    display: inline;
+    font-size: 30px;
+    color: cornflowerblue;
+    padding: 30px 30px;
+    background-color: brown;
+    margin: 15px;
+    border-radius: 5px;
+}
+
+#input-tk {
+    color: chartreuse;
+    display: inline;
+    font-size: 30px;
+    border: solid 5px black;
+    padding: 30px 30px;
+    background-color: brown;
+    margin: 15px;
+    border-radius: 5px;
+}
+
+input {
+    margin-top: 100px;
+    width: 800px;
+    padding: 12px 20px;
+    border: none;
+    border-bottom: 2px solid red;
+    font-size: 25px;
+    box-sizing: border-box;
+    text-align: center;
+
+}
+
+form {
+    margin-bottom: 70px;
 }
