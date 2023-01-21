@@ -44,11 +44,11 @@
     text-align: center;
 }
 
-#second-heading {
+.second-heading {
     font-size: 60px;
 }
 
-#second-paragraph {
+.second-paragraph {
     font-size: 25px;
     margin-bottom: 80px;
 }
@@ -88,4 +88,49 @@ input {
 
 form {
     margin-bottom: 70px;
+}
+
+#third-step {
+
+    height: 600px;
+    text-align: center;
+
+}
+
+#third-paragraph {
+    font-size: 22px;
+    margin-top: 0px;
+}
+
+.icon {
+    display: flex;
+    text-align: left;
+}
+
+#first-icon {
+    margin-top: 20px;
+    margin-left: 45px;
+    margin-right: 45px;
+    padding: 40px;
+    background-color: chartreuse;
+}
+
+#second-icon {
+    margin-top: 20px;
+    margin-left: 45px;
+    margin-right: 45px;
+    padding: 40px;
+
+    background-color: aqua;
+
+}
+
+#third-icon {
+    margin-top: 20px;
+    margin-left: 45px;
+    margin-right: 45px;
+    padding: 40px;
+
+    background-color: brown;
+
 }
