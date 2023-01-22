@@ -166,3 +166,12 @@ form {
 #six-paragraph {
     font-size: 20px;
 }
+
+#company-img {
+    margin-top: 0px;
+    text-align: center;
+}
+
+.six-part {
+    text-align: center;
+}
