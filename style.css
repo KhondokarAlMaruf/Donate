@@ -90,7 +90,7 @@ form {
     margin-bottom: 70px;
 }
 
-#third-step {
+.third-step {
 
     height: 600px;
     text-align: center;
@@ -157,4 +157,12 @@ form {
 .fourth-paragraph {
     font-size: 25px;
     padding: 10px;
+}
+
+#six-heading {
+    font-size: 55px;
+}
+
+#six-paragraph {
+    font-size: 20px;
 }
