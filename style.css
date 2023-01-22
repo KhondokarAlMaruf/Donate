@@ -134,3 +134,27 @@ form {
     background-color: brown;
 
 }
+
+.fourth-part {
+    height: 600px;
+    display: flex;
+    text-align: center;
+}
+
+.fourth-half {
+    width: 50%;
+}
+
+.fourth-half img {
+    width: 90%;
+    padding: 60px;
+}
+
+.fourth-heading {
+    font-size: 55px;
+}
+
+.fourth-paragraph {
+    font-size: 25px;
+    padding: 10px;
+}
