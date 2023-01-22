@@ -37,6 +37,7 @@
     color: white;
     font-size: 20px;
     font-weight: 700;
+    margin-left: 0px
 }
 
 #second-step {
@@ -74,7 +75,7 @@
     border-radius: 5px;
 }
 
-input {
+#first-input {
     margin-top: 100px;
     width: 800px;
     padding: 12px 20px;
@@ -163,7 +164,7 @@ form {
     font-size: 55px;
 }
 
-#six-paragraph {
+.six-paragraph {
     font-size: 20px;
 }
 
@@ -174,4 +175,38 @@ form {
 
 .six-part {
     text-align: center;
+    margin-top: 0px;
+    padding-top: 5px;
+}
+
+#second-last-heading {
+    font-size: 55px;
+    padding-top: 40px;
+}
+
+#second-last-part {
+    height: 600px;
+    text-align: center;
+}
+
+#last-input {
+    margin: 30px;
+    width: 300px;
+    padding: 16px 20px;
+    border: none;
+    background-color: blue;
+    font-size: 25px;
+    box-sizing: border-box;
+    text-align: center;
+    margin-right: 0px;
+}
+
+#second-last-bg {
+    background-color: crimson;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    width: 1000px;
+    text-align: center;
+    margin-left: 200px;
+    margin-top: 100px;
 }
