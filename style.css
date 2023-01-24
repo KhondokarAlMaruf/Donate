@@ -1,5 +1,5 @@
 #top-banner {
-    background-image: url(images/donation5.jpg);
+    background-image: url(images/donation9.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     background-attachment: fixed;
@@ -11,7 +11,7 @@
 }
 
 #top-title {
-    color: whitesmoke;
+    color: white;
     text-align: center;
 
     padding-top: 65px;
@@ -21,6 +21,7 @@
     font-size: 70px;
     font-weight: 700;
     margin-bottom: 5px;
+
 }
 
 #top-paragraph {
@@ -31,7 +32,7 @@
 
 #top-button {
     text-decoration: none;
-    background-image: linear-gradient(orange, tomato);
+    background-image: linear-gradient(DeepPink, Fuchsia);
     padding: 20px 20px;
     border-radius: 10px;
     color: white;
@@ -52,6 +53,7 @@
 .second-paragraph {
     font-size: 25px;
     margin-bottom: 80px;
+    color: rgb(134, 132, 132);
 }
 
 #donate-taka {
@@ -59,18 +61,18 @@
     font-size: 30px;
     color: cornflowerblue;
     padding: 30px 30px;
-    background-color: brown;
+    background-color: MistyRose;
     margin: 15px;
     border-radius: 5px;
 }
 
 #input-tk {
-    color: chartreuse;
+    color: cornflowerblue;
     display: inline;
     font-size: 30px;
-    border: solid 5px black;
+    border: solid 5px DeepPink;
     padding: 30px 30px;
-    background-color: brown;
+    background-color: LightPink;
     margin: 15px;
     border-radius: 5px;
 }
@@ -80,10 +82,11 @@
     width: 800px;
     padding: 12px 20px;
     border: none;
-    border-bottom: 2px solid red;
+    border-bottom: 3px solid Violet;
     font-size: 25px;
     box-sizing: border-box;
     text-align: center;
+    color: cornflowerblue;
 
 }
 
@@ -101,6 +104,7 @@ form {
 #third-paragraph {
     font-size: 22px;
     margin-top: 0px;
+    color: rgb(134, 132, 132);
 }
 
 .icon {
@@ -113,7 +117,7 @@ form {
     margin-left: 45px;
     margin-right: 45px;
     padding: 40px;
-    background-color: chartreuse;
+    background-color: Pink;
 }
 
 #second-icon {
@@ -122,7 +126,7 @@ form {
     margin-right: 45px;
     padding: 40px;
 
-    background-color: aqua;
+    background-color: PowderBlue;
 
 }
 
@@ -132,7 +136,7 @@ form {
     margin-right: 45px;
     padding: 40px;
 
-    background-color: brown;
+    background-color: plum;
 
 }
 
@@ -158,6 +162,7 @@ form {
 .fourth-paragraph {
     font-size: 25px;
     padding: 10px;
+    color: rgb(134, 132, 132);
 }
 
 #six-heading {
@@ -166,6 +171,7 @@ form {
 
 .six-paragraph {
     font-size: 20px;
+    color: rgb(134, 132, 132);
 }
 
 #company-img {
@@ -194,7 +200,7 @@ form {
     width: 300px;
     padding: 16px 20px;
     border: none;
-    background-color: blue;
+    background-color: rgb(161, 158, 158);
     font-size: 25px;
     box-sizing: border-box;
     text-align: center;
@@ -202,7 +208,7 @@ form {
 }
 
 #second-last-bg {
-    background-color: crimson;
+    background-color: Pink;
     padding-top: 50px;
     padding-bottom: 50px;
     width: 1000px;
@@ -214,16 +220,18 @@ form {
 #footer-h {
     font-size: 40px;
     text-align: center;
+    color: PaleGreen;
 }
 
 #footer-p {
     font-size: 15px;
     text-align: center;
+    color: PaleGreen;
 }
 
 #footer {
-    background-color: chartreuse;
-    height: 250px;
+    background-color: DarkSlateGrey;
+    height: 200px;
     width: 100%;
 }
 
@@ -231,4 +239,12 @@ form {
     text-align: center;
     padding-top: 50px;
     margin-right: 0px;
+}
+
+body {
+    margin: 0px;
+}
+
+span {
+    color: MediumSlateBlue;
 }
